@@ -5,6 +5,7 @@
 > 2. AI의역사, LLM 현황 및 핵심개념이해
 >    1. [Machine Learning Concept](https://github.com/LegdayDev/LLM-Study/blob/master/part02/sec01.md)
 >    2. [A Brief History of AI](https://github.com/LegdayDev/LLM-Study/blob/master/part02/sec02.md)
+>    3. [LLM, 완전히 새로운 시대의 개막](https://github.com/LegdayDev/LLM-Study/blob/master/part02/sec03.md)
 > 3. 프롬프트엔지니어링 개요
 > 4. 프롬프트 엔지니어링 기초 지식
 > 5. 프롬프트 엔지니어링 기초 실습
